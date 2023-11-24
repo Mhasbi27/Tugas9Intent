@@ -240,6 +240,7 @@ Maka langsung saja kita buka `activity_main.xml`, dan buat code seperti berikut 
 ```
 - Maka tampilannya akan seperti ini :
   
+![WhatsApp Image 2023-11-24 at 15 15 43](https://github.com/Mhasbi27/Tugas9Intent/assets/129852622/1ae4e0ed-42b2-4483-a3ba-69c7bbee157e)
 
 
 - Setelah itu kita buka `MainActivity.java` untuk menambahkan code intent untuk masing-masing tombol :
@@ -391,18 +392,17 @@ e. Project Set Alarm = MainActivity.java (karena merupakan Implicit Intent, jadi
     <string name="article_title"> Kasus Sianida</string>
     <string name="article_subtitle">ICE COLD!</string>
 
-    <string name="article_text"> Film dokumenter Ice Cold: Murder, Coffee and Jessica Wongso memaparkan pertanyaan tak terjawab tentang persidangan yang dilalui Jessica Wongso. Dengan menyajikan perspektif baru, film ini hadir bertahun-tahun setelah kematian sahabat Jessica, Wayan Mirna Salihin.
-
-
-Film ini menggambarkan bagaimana Jessica yang mengajak teman-temannya, termasuk Mirna, untuk bertemu setelah sekian lama tak berjumpa. Pertemuan di salah satu kafe di mal ibu kota tersebut pun berlangsung lancar, sebelum akhirnya Mirna pingsan sesaat setelah meminum kopi yang sebelumnya dipesan Jessica.Dokumenter ini turut menyajikan rekaman CCTV pada waktu kejadian, berbagai footage berita saat persidangan berlangsung, hingga wawancara eksklusif dengan beberapa sumber, termasuk Jessica Wongso.
-
-
-Persidangan atas dugaan pembunuhan Mirna Salihin digelar lima bulan setelah kematiannya. Sidang tersebut melalui 32 kali persidangan dengan menghadirkan puluhan saksi di pengadilan. Hasilnya, Jessica Wongso divonis bersalah atas kematian Mirna dan dijatuhi hukuman 20 tahun penjara.
-Kasus yang berjalan cukup lama tersebut menyita banyak perhatian dari masyarakat Indonesia. Musababnya, banyak misteri tak terjawab selama rangkaian persidangan yang panjang tersebut. Salah satunya adalah mengenai akses untuk mendapatkan bubuk sianida yang tidak bisa didapatkan oleh orang sembarangan. Selain itu, motif Jessica di balik pembunuhan tersebut pun belum menemukan jawabannya.
-
-        
-Film dokumenter buatan Netflix ini menyoroti rangkaian persidangan yang saat itu menjadi sidang pertama yang disiarkan secara langsung di berbagai stasiun televisi Indonesia. Selain itu, kasus ini juga diliput secara intens oleh media massa, baik nasional maupun internasional.Tak hanya itu, pihak rumah produksi Beach House Pictures juga berhasil mendapatkan akses untuk mewawancarai Jessica Wongso secara langsung dari balik tahanan. Dalam video trailer yang diluncurkannya, ditampilkan juga sejumlah wawancara eksklusif yang dilakukan dengan beberapa narasumber. Mulai dari ayah dan saudara kembar  Mirna Salihin, pengacara Jessica Wongso, jurnalis yang mendalami kasus tersebut, hingga bagaimana saat itu kasus ini begitu ramai diberitakan oleh media massa Indonesia dan internasional.</string>
-    
+    <string name="article_text">  Film dokumenter Ice Cold: In a vault deep inside Abbey Road Studios in London — protected by an unmarked,
+    triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings,
+    starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be album.
+    The best of the best were released by Apple Records in the form of the 3-volume Anthology series.
+    For more information, see the Beatles Time Capsule at www.rockument.com. \
+    n\n This volume starts with the first new Beatle song, “Free as a Bird”
+    (based on a John Lennon demo, found only on The Lost Lennon Tapes Vol. 28, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions. \n\n
+    Highlights include: \n\n
+    Cry for a Shadow – Many a Beatle fanatic started down the outtake road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs. \n\n
+    My Bonnie and Ain’t She Sweet — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal). \n\n
+            Searchin — A Jerry Leiber – Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records featuring the Dead joined by the Beach Boys! \n\n</string>
 </resources>
 ```
 
@@ -1096,6 +1096,10 @@ findViewById(R.id.btnSetAlarm).setOnClickListener(new View.OnClickListener() {
 
 ## Hasil Run 
 - Berikut adalah hasil running dari aplikasi yang telah saya buat :
+
+
+
+https://github.com/Mhasbi27/Tugas9Intent/assets/129852622/409c845d-6d9b-43ce-8527-d492a69a3b6c
 
 
 
